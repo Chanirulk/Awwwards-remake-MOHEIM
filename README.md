@@ -4,7 +4,7 @@ Awwwards-remake-MOHEIM HTML5 CSS3 JAVASCRIPT
 
 # This Website was crafted by - @chaniru.lk - instagram
 
-![Scrrenshot](./img/screenshot.png)
+![Screenshot](./img/logo.png)
 
 # About the AUTHOR
 
