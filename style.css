@@ -16,7 +16,7 @@ body::-webkit-scrollbar{
 }
 @font-face {
     font-family: "TT Commons";
-    src: url(../tt_commons_regular.ttf);
+    src: url(tt_commons_regular.ttf);
 }
 #main{
     width: 100%;
